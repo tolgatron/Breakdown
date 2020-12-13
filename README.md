@@ -137,6 +137,10 @@ Champions in Teamfight Tactics have health points, mana, normal attack and eithe
 <img src=./ChampionDetails.png>
 </p>
 
+<p align="center">
+<img src=./ChampionUML.png>
+</p>
+
 Each champion has 1 origin and 1 or 2 classes depending on their lore/skills/theme. Champions with similar backstory will have the same origin whereas champions with similar skills will have the same class. Champions also has a rank system. They can have 3 different ranks and ranks can be upgraded by stacking duplicate champions.  
 
 | Champion        | Tier 1 | Tier 2  | Tier 3  | Tier 4  | Tier 5  |
